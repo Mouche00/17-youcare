@@ -1,0 +1,5 @@
+.button.active {
+    @apply bg-primary;
+    @apply text-white;
+    @apply border-2 border-primary;
+}
